@@ -9,9 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/GalleryFreeLook.unity
+    path: Assets/Scenes/UO_GalleryFreeLook.unity
     guid: 3063e5dc9bdb9ad4ca9b29e9b68db1ba
   - enabled: 1
-    path: Assets/Scenes/GalleryCinematic.unity
+    path: Assets/Scenes/UO_GalleryCinematic.unity
     guid: a65a777844ac3ed48b2a868300e3306a
   m_configObjects: {}
