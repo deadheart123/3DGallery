@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UO_GalleryCinematic.unity
     guid: a65a777844ac3ed48b2a868300e3306a
+  - enabled: 1
+    path: Assets/Scenes/O_GalleryFreeLook.unity
+    guid: 6eec6079522b0e84bba90862dd094331
+  - enabled: 1
+    path: Assets/Scenes/O_GalleryCinematic 1.unity
+    guid: 5cb0965bf7b5fa94a952aed5221a371d
   m_configObjects: {}
